@@ -13,8 +13,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/brianshea2/meshmap.net/internal/meshtastic"
-	"github.com/brianshea2/meshmap.net/internal/meshtastic/generated"
+	"github.com/mrhorrible78/meshmap.net/internal/meshtastic"
+	"github.com/mrhorrible78/meshmap.net/internal/meshtastic/generated"
 	"google.golang.org/protobuf/proto"
 )
 
